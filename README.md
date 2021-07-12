@@ -1,8 +1,8 @@
 # ScaffoldingX
 
-Machine learning to accelerate 3D printing of organoids
+Machine learning to accelerate 3D bioprinting.
 
-Scaffoldingx aims to leverage the power of machine learning techniques to radically improve design for 3D bioprinting, material tuning, process optimization and in situ monitoring to enable mass production of organoids.
+Scaffoldingx aims to leverage the power of machine learning techniques to radically improve design, material tuning, process optimization, and in situ monitoring of 3D bioprinting tissues.
 
 Mass production of organoids (tissue from organs) are vital to mitigating problems created via the human condition, as such - chronic illness, accidents (fires, car collisions, natural disasters, diseases such as cancer, diabetes). 3D printing of organoids (or bioprinting) has quickly become one of the leading segments of the 3D printing industry in terms of innovation. Thanks to 3D printing techniques, cells and biomaterials can be combined and deposited layer by layer to create biomedical developments that have the same properties as living tissues (Figure 1). During this process, various “bio-inks” (a combination of cells and gel) can be used to create these tissue-like structures. This field has opened the possibility of creating synthetic skin, cornea or bladders for personalized medicine, high throughput testing of drugs for efficacy and toxicity and leading on to organ replacement. organoids can be used for a wide range of applications such as autologous cell therapy breast reconstruction, bone and cartilage implants, and high throughput drug screening 
 
