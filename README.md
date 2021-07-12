@@ -9,6 +9,6 @@ Scaffoldingx aims to leverage the power of machine learning techniques to radica
 The bioprinting field faces challenges due to sub-optimal selection of materials, design of scaffolds, and struggles with viability of printed tissues. Machine learning techniques can design appropriate materials, determine the concentration of these materials, and predict scaffold structure to radically improve current bioprinting protocols.
 
 Team members:
-Shalini Ananda, PhD
-Koen de Lombaert , MD, MBA
+Shalini Ananda, PhD;
+Koen de Lombaert, MD, MBA;
 Ivan Wong, MS
